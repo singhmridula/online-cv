@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'http://webjeda.com'
+    #url: 'http://webjeda.com'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
