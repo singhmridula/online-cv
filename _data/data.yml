@@ -15,11 +15,11 @@ sidebar:
     
     # Sidebar links
     email: mrsingh@inf.ethz.ch
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    phone:  +41 44 632 51 75
+    website: http://www.syssec.ethz.ch/people/singh.html #do not add http://
+    linkedin: mridula-singh-9a480925
+    #github: sharu725
+    #twitter: '@webjeda'
 
     languages:
         - language:
