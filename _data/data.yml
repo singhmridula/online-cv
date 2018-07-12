@@ -49,9 +49,13 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
-
+    title: Bio
+    text: 'Mridula is a PhD candidate in the Information Security Group at ETH Zurich, advised by Prof. Srdjan Capkun. In PhD, 
+her focus is in designing secure and scalable localization systems capable of providing position and 
+proximity verification in presence of an adversory. She is also interested in Security of Wireless networks, 
+Network Modelling, Mobile Computing and Imapct of Social Media. She has received Masters degree from IIIT-Delhi 
+in 2014 with specialization in Mobile and Ubiquitous Computing and B.Tech from UPTU, India in 2011. Between her Btech and Mtech,
+she was research assistant in IIT-Delhi. She was Research Engineer in Xerox Research Centre, India before joining PhD.'
 
 studies: 
     - education:
