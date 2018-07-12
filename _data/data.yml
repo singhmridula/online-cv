@@ -31,7 +31,7 @@ sidebar:
   #      - language:
 #          idiom: Spanish
 #          level: Professional
-        
+
     interests:
         - interest:
           item: Cycling
@@ -43,7 +43,6 @@ sidebar:
           item: Hiking
           link:
 
-        
 
 
 
@@ -54,9 +53,6 @@ career-profile:
 her focus is in designing secure and scalable localization systems capable of providing position and 
 proximity verification in presence of an adversory. She is also interested in Security of Wireless networks, 
 Network Modelling, Mobile Computing and Imapct of Social Media.'
-# She has received Masters degree from IIIT-Delhi 
-in 2014 with specialization in Mobile and Ubiquitous Computing and B.Tech from UPTU, India in 2011. Between her Btech and Mtech,
-she was research assistant in IIT-Delhi. She was Research Engineer in Xerox Research Centre, India before joining PhD.
 
 studies: 
     - education:
