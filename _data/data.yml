@@ -74,22 +74,28 @@ studies:
       time: 2007 - 2011
       details: "Da."
 
+experiences: 
+    - education:
+      degree: PhD in Dept. of Information Security
+      university: ETH Zurich
+      time: 2016 - Present
+      details: "Da"
+
+    - education:
+      degree: MTec. in Computer Science - Mobile and Ubiquitous Computing
+      university: IIIT Delhi 
+      time: 2012 - 2014
+      details: "Da."
+
+    - education:
+      degree: BTec. in Computer Science 
+      university: UPTU
+      time: 2007 - 2011
+      details: "Da."
 
 
-experiences:
-    title: Experiences
-    
-    
-    experiences:
-        - role: Research Engineer
-          time: 2014 - 2016
-          company: Xerox Research Centre, India 
-          details: " a "
 
-        - role: Research Associate
-          time: 2011 - 2012
-          company: IIT Delhi
-          details: " b "
+
 
 projects:
     title: Projects

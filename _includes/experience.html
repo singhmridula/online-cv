@@ -1,30 +1,42 @@
-{% if site.data.data.experiences %}
-<section class="section experiences-section">
-  <h2 class="section-title"><i class="fa fa-briefcase"></i>{{site.data.data.experiences.title}}</h2>
+{% if site.data.data.studies %}
+    {% if site.education_in_main %}
+        <section class="section educations-section">
+        <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
+        {% for education in site.data.data.studies %}
+          <div class="item">
+          
+            <div class="meta">
+            
+              <div class="upper-row">
+                <h3 class="degree">{{ education.degree }}</h3>
+                <div class="time">{{ education.time }}</div>
+              </div><!--//upper-row-->
+              
+              <div class="university">{{ education.university }}</div>
+            </div><!--//meta-->
+            
+            {% if education.details %}
+            <div class="details">
+              <p>{{ education.details }}</p>
+            </div><!--//details-->
+            {% endif %}
+          </div><!--//item-->
+        {% endfor %}
+        
+        </section><!--//section-->
+    {% else %}
+        <div class="education-container container-block">
 
-{% for experience in site.data.data.experiences.experiences %}
-  <div class="item">
+        <h2 class="container-block-title">Education</h2>
 
-    <div class="meta">
+        {% for education in site.data.data.studies %}
+            <div class="item">
+            <h4 class="degree">{{ education.degree }}</h4>
+          <h5 class="meta">{{ education.university }}</h5>
+          <div class="time">{{ education.time }}</div>
+        </div><!--//item-->
+      {% endfor %}
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ experience.company }}</div>
-
-    </div><!--//meta-->
-
-    {% if experience.details %}
-    <div class="details">
-      <p>{{ experience.details }}</p>
-    </div><!--//details-->
+    </div><!--//education-container-->
     {% endif %}
-
-  </div><!--//item-->
-{% endfor %}
-
-</section><!--//section-->
 {% endif %}
-
