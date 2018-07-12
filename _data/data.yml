@@ -62,7 +62,7 @@ studies:
       degree: PhD in Dept. of Information Security
       university: ETH Zurich
       time: 2016 - Present
-   #   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
@@ -71,7 +71,7 @@ studies:
       degree: MTec. in Computer Scienec, with specilaization in Mobile and Ubiquitous Computing
       university: IIIT Delhi 
       time: 2012 - 2014
-    #  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
