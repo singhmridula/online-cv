@@ -1,8 +1,8 @@
-{% if site.data.data.experience %}
+{% if site.data.data.exp %}
     {% if site.education_in_main %}
         <section class="section educations-section">
         <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Experience</h2>
-        {% for education in site.data.data.experience %}
+        {% for education in site.data.data.exp %}
           <div class="item">
           
             <div class="meta">
@@ -29,7 +29,7 @@
 
         <h2 class="container-block-title">Experience</h2>
 
-        {% for education in site.data.data.experience %}
+        {% for education in site.data.data.exp %}
             <div class="item">
             <h4 class="degree">{{ education.degree }}</h4>
           <h5 class="meta">{{ education.university }}</h5>
