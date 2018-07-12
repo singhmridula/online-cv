@@ -46,7 +46,7 @@
    </div><!--//contact-container-->
 
   {% if site.education_in_main == null or site.education_in_main == false %}
-    
+    {% include education.html %}
     {% include experience.html %}
   {% endif %}
   {% include language.html %}
