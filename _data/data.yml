@@ -141,7 +141,7 @@ projects:
         title: High density enterprise wireless LANs
         time: 2013 - 2014
         advisor: "Advisor: Prof. Sanjit Krishnan Kaul, IIIT Delhi"
-        tagline: "Piggybacking data, sharing space and time in more optimal way to achieve higher throughput."
+        tagline: "While the density of access points in enterprise settings has increased, the sharing of the spatial resource amongst links in 802.11 wireless local area networks remains inefficient. We formulate the network throughput optimization problem, which is to decide which links in a network must share in space (transmit data simultaneously) such that the network throughput is maximized. Links share in space by piggybacking on data transmission opportunities seized by another link using RTS/CTS as specified in the distributed coordination function (DCF) of 802.11."
       - project:
         title: Trishulam
         advisor: "Advisor: Prof. Pushpendra Singh, IIIT Delhi" 
