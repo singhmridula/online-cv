@@ -5,7 +5,9 @@
     <h3 class="container-block-title">ETH Zurich</h3>
     <ul class="list-unstyled interests-list">
       {%for teaching in site.data.data.sidebar.teaching %}
-      <li>{{ teaching.course }} <span class="lang-desc">({{ teaching.year }})</span></li>
+      	{% if site.data.data.sidebar.teaching.type %}
+      		<li>{{ teaching.course }} <span class="lang-desc">({{ teaching.year }})</span></li>
+      	{% endif %}
       {% endfor %}
     </ul>
 

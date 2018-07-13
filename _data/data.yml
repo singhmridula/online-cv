@@ -48,9 +48,11 @@ sidebar:
         - teaching:
           course: Digital Circuits
           year: FS17, FS18
+          type: ETH
         - teaching:
           course: Security of Wireless Networks
           year: SS16, SS16
+          type: ETH
         - teaching_iiitd:
           course:  Computer Networks
           year: SS12
