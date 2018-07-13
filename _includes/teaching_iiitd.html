@@ -1,11 +1,11 @@
-{% if site.data.data.sidebar.teaching %}
+{% if site.data.data.sidebar.teaching_iiitd %}
 <div class="languages-container container-block">
 
   <h3 class="container-block-title">IIIT Delhi</h3>
 
     <ul class="list-unstyled interests-list">
-      {%for teaching in site.data.data.sidebar.teaching %}
-      <li>{{ teaching.course }} <span class="lang-desc">({{ teaching.year }})</span></li>
+      {%for teaching_iiitd in site.data.data.sidebar.teaching_iiitd %}
+      <li>{{ teaching_iiitd.course }} <span class="lang-desc">({{ teaching_iiitd.year }})</span></li>
       {% endfor %}
     </ul>
 
