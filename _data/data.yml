@@ -155,17 +155,10 @@ publications:
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: "3rd IKDD Conference on Data Science (2016)"
       - paper:
-        title: "SenseX Design and Deployment of a Pervasive Wellness Monitoring Platform for Work places”
-        authors: R Wadhwa, A Chugh, A Kumar, M Singh, K Yadav, S Eswaran
-        conference: "International Conference on Service-Oriented Computing, (2015)"
-      - paper:
         title: "On large throughputs in high density wireless local area networks”
         authors: M Singh, S Kaul, P Biyani
         conference: "GLOBECOM (2014)"
-      - paper:
-        title: "RadioMap fine-grained cellular coverage mapping in indoor environments”
-        authors: A Kumar, M Singh, K Yadav, N Piratla
-        conference: "Posters and Demos Session, (2014)"
+
 
 
 skills:
