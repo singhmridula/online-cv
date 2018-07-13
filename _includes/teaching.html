@@ -13,7 +13,7 @@
 
     <h3 class="container-block-title">IIIT Delhi</h3>
     <ul class="list-unstyled interests-list">
-      {%for teaching_iiitd in site.data.data.sidebar.teaching %}
+      {%for teaching in site.data.data.sidebar.teaching %}
       	{% if teaching.type2 %}
       		<li>{{ teaching.course }} <span class="lang-desc">({{ teaching.year }})</span></li>
       	{% endif %}

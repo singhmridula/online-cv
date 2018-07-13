@@ -53,19 +53,19 @@ sidebar:
           course: Security of Wireless Networks
           year: SS16, SS16
           type: ETH
-        - teaching_iiitd:
+        - teaching:
           course:  Computer Networks
           year: SS12
           type2: IIITD
-        - teaching_iiitd:
+        - teaching:
           course: Computer Orgnization
           year: WS13
           type2: IIITD
-        - teaching_iiitd:
+        - teaching:
           course: Technical Communication 
           year: SS13
           type2: IIITD
-        - teaching_iiitd:
+        - teaching:
           course: Wireless Networksssss
           year: WS14
           type2: IIITD
