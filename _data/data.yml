@@ -155,10 +155,6 @@ publications:
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: "3rd IKDD Conference on Data Science (2016)"
       - paper:
-        title: "Janayuja a people centric platform to generate reliable and actionable insights for civic agencies”
-        authors: "T Mukherjee, D Chander, S Eswaran, M Singh , P Varma, A Chugh"
-        conference: "Annual Symposium on Computing for Development, (2015)"
-      - paper:
         title: "Mauka-mauka measuring and predicting opportunities for webcam-based heart rate sensing in workplace environment"
         authors: M Singh, A Kumar, K Yadav, H Madhu, T Mukherjee 
         conference: "10th EAI International Conference on Body Area Networks, (2015)"
