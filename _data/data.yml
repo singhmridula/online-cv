@@ -144,9 +144,9 @@ publications:
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: "UWB with Pulse Reordering: Securing Ranging against Relay and Physical Layer Attacks"
+        authors: M Singh, P Leu, S Capkun
+        conference: "IACR Cryptology ePrint Archive 2017: 1240 (2017)”
       - paper:
         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
