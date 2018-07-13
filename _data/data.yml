@@ -47,18 +47,24 @@ sidebar:
     teaching:
         - teaching:
           course: Digital Circuits
-          year: FS17,FS18
+          year: FS17, FS18
         - teaching:
           course: Security of Wireless Networks
-          year: SS16,SS16
-          
+          year: SS16, SS16
+
     teaching_iiitd:
         - teaching_iiitd:
-          course: Digital Circuits
-          year: FS17,FS18
+          course:  Computer Networks
+          year: FS17, FS18
         - teaching_iiitd:
-          course: Security of Wireless Networks
-          year: SS16,SS16
+          course: Computer Orgnization
+          year: FS17, FS18
+        - teaching_iiitd:
+          course: Technical Communication 
+          year: SS16, SS16
+        - teaching_iiitd:
+          course: Wireless Networks
+          year: SS16, SS16
 
 career-profile: 
     title: Bio
