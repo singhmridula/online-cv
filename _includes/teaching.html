@@ -1,0 +1,13 @@
+{% if site.data.data.sidebar.teaching %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">Teaching Activities</h2>
+
+    <ul class="list-unstyled interests-list">
+      {%for teaching in site.data.data.sidebar.teaching %}
+      <li>{{ teaching.course }} <span class="lang-desc">({{ teaching.year }})</span></li>
+      {% endfor %}
+    </ul>
+
+</div><!--//interests-->
+{% endif %}
