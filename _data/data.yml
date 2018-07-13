@@ -147,6 +147,10 @@ publications:
         title: UWB with Pulse Reordering Securing Ranging against Relay and Physical Layer Attacks
         authors: M Singh, P Leu, S Capkun
         conference: IACR Cryptology ePrint Archive 1240 (2017)
+      - paper:
+        title: Improving Urban Transportation through Social Media Analytics
+        authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
+        conference: 3rd IKDD Conference on Data Science, (2016)
      
 
 
