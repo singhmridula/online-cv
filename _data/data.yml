@@ -117,7 +117,7 @@ projects:
         title: High density enterprise wireless LANs
         time: 2013 - 2014
         advisor: "Advisor: Prof. Sanjit Krishnan Kaul, IIIT Delhi"
-        tagline: "Designing a poisson distributed linear topology, for a network with small access points or cells dis- tributed among users. It involves comparing the results of channel sharing, due to CSMA backoff, with capture effect in terms of network capacity. Results of comparison decide best possible sets of operational links in network."
+        tagline: "Piggybacking data, sharing space and time in more optimal way to achieve higher throughput."
       - project:
         title: Trishulam
         advisor: "Advisor: Prof. Pushpendra Singh, IIIT Delhi" 
@@ -127,7 +127,7 @@ projects:
         title: Code Runner
         advisor: "Advisor: Prof. Vinayak Naik, IIIT Delhi"
         time: 2012
-        tagline: "Facilitating C code program- ming in Smartphone. Code is sent to server for compilation and execution. Interactive programming is enabled using mini server architecture."      
+        tagline: "Facilitating C code programming in Smartphone. Code is sent to server for compilation and execution. Interactive programming is enabled using mini server architecture."      
       - project:
         title: Characterizing Polluted User in Twitter Sphere
         advisor: "Advisor: Prof. Ponnurangam Kumaraguru, IIIT Delhi"
@@ -154,10 +154,6 @@ publications:
         title: "Improving Urban Transportation through Social Media Analytics"
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: "3rd IKDD Conference on Data Science (2016)"
-      - paper:
-        title: "Mauka-mauka measuring and predicting opportunities for webcam-based heart rate sensing in workplace environment"
-        authors: M Singh, A Kumar, K Yadav, H Madhu, T Mukherjee 
-        conference: "10th EAI International Conference on Body Area Networks, (2015)"
       - paper:
         title: "SenseX Design and Deployment of a Pervasive Wellness Monitoring Platform for Work places”
         authors: R Wadhwa, A Chugh, A Kumar, M Singh, K Yadav, S Eswaran
