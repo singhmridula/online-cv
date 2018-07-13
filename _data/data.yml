@@ -106,8 +106,16 @@ projects:
         title: SenseX Wellness as a service
         time: 2014 - 2016
         tagline: "With the increasing number of desk jobs, workplaces have become the epicentre of several health risks. SenseX uses a variety of devices and sensors to track physical activity level of employees in an organization. SenseX platform of- fers APIs which can be used by 3rd party applications to create services and applications, which can focus on specific interventions."
+      - project:
+        title: CityZen
+        time: 2014 - 2016
+        tagline: " Modern citizens are actively discussing and expressing opinions about city re- lated issues in open public forums on the web. This project act as an effective conduit between residents and civic agencies, by collecting timely information from different online sources and providing actionable insights to the agencies on pressing city issues."
+      - project:
+        title: High density enterprise wireless LANs
+        time: 2013 - 2014
+        advisor: Advisor Prof. Sanjit Krishnan Kaul, IIIT Delhi
+        tagline: "Designing a poisson distributed linear topology, for a network with small access points or cells dis- tributed among users. It involves comparing the results of channel sharing, due to CSMA backoff, with capture effect in terms of network capacity. Results of comparison decide best possible sets of operational links in network."
       
-
 
 publications:
     title: Publications
