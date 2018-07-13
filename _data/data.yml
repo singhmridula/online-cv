@@ -148,13 +148,14 @@ publications:
         authors: M Singh, P Leu, S Capkun
         conference: "IACR Cryptology ePrint Archive 2017: 1240 (2017)”
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: "Improving Urban Transportation through Social Media Analytics"
+        authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
+        conference: "3rd IKDD Conference on Data Science (2016)"
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: "PISCES participatory incentive strategies for effective community engagement in smart cities”
+        authors: A Biswas, D Chander, K Dasgupta, K Mukherjee, M Singh, T Mukherjee
+        conference: "Third AAAI Conference on Human Computation and Crowdsourcing, (2015)"
+
 
 
 
