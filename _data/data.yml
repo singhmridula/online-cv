@@ -51,7 +51,11 @@ sidebar:
           type: ETH
         - teaching:
           course: Security of Wireless Networks
-          year: SS16, SS16
+          year: SS16, SS17
+          type: ETH
+        - teaching:
+          course: Introduction to Programming 
+          year: SS16, SS17
           type: ETH
         - teaching:
           course:  Computer Networks
