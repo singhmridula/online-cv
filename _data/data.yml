@@ -56,15 +56,19 @@ sidebar:
         - teaching_iiitd:
           course:  Computer Networks
           year: SS12
+          type2: IIITD
         - teaching_iiitd:
           course: Computer Orgnization
           year: WS13
+          type2: IIITD
         - teaching_iiitd:
           course: Technical Communication 
           year: SS13
+          type2: IIITD
         - teaching_iiitd:
           course: Wireless Networksssss
           year: WS14
+          type2: IIITD
 
 career-profile: 
     title: Bio
