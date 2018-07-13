@@ -131,7 +131,7 @@ projects:
         time: 2012
         tagline: "An automated mechanism to detect pornographic user in twitter. Characterization employ bag of word model, information in long URLs , websites linked back, follower- following ratio and posting activities."
       - project:
-        title: Design and Development of a Rapidly Deployable WiMAX Mesh Network (RODEO)
+        title: Design and Development of a Rapidly Deployable WiMAX Mesh Network
         advisor: "Advisor: Prof. Huzur Saran and Prof. Vinay Joseph Ribeiro, IIT Delhi"
         time: 2011 - 2012
         tagline: "Study of TCP stack for better performance in terms of delay, throughput and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture effect of mobility and differentiate it from congestion."
@@ -151,8 +151,13 @@ publications:
         title: "Improving Urban Transportation through Social Media Analytics"
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: "3rd IKDD Conference on Data Science (2016)"
+      - paper:
+        title: "Janayuja: a people-centric platform to generate reliable and actionable insights for civic agencies”
+        authors: T Mukherjee, D Chander, S Eswaran, M Singh , P Varma, A Chugh
+        conference: "Annual Symposium on Computing for Development, 137-145 5 2015"
 
 
+        
 skills:
     title: Skills &amp; Proficiency
     skills:
