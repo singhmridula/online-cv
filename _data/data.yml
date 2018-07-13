@@ -55,16 +55,16 @@ sidebar:
     teaching_iiitd:
         - teaching_iiitd:
           course:  Computer Networks
-          year: FS17, FS18
+          year: SS12
         - teaching_iiitd:
           course: Computer Orgnization
-          year: FS17, FS18
+          year: WS13
         - teaching_iiitd:
           course: Technical Communication 
-          year: SS16, SS16
+          year: SS13
         - teaching_iiitd:
           course: Wireless Networks
-          year: SS16, SS16
+          year: WS14
 
 career-profile: 
     title: Bio
