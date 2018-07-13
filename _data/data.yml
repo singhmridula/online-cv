@@ -140,8 +140,7 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+        
     publications:
       - paper:
         title: "UWB with Pulse Reordering: Securing Ranging against Relay and Physical Layer Attacks"
@@ -151,10 +150,6 @@ publications:
         title: "Improving Urban Transportation through Social Media Analytics"
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: "3rd IKDD Conference on Data Science (2016)"
-      - paper:
-        title: "Pisces participatory incentive strategies for effective community engagement in smart cities”
-        authors: A Biswas, D Chander, K Dasgupta, K Mukherjee, M Singh, T Mukherjee
-        conference: "Third AAAI Conference on Human Computation and Crowdsourcing, (2015)"
 
 
 
