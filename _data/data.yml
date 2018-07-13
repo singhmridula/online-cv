@@ -100,10 +100,10 @@ projects:
       - project:
         title: Scalablity and Security of RF Ranging Systems
         time: 2016 - Present
-        advisor: Advisor Prof. Srdjan Capkun, ETH Zurich
+        advisor: "Advisor: Prof. Srdjan Capkun, ETH Zurich"
         tagline: "The attacks on the ranging and positioning systems have real world impact. The existing ranging systems are shown vulnerabile to physical and link layer attacks. This project is a step toward designing the secure ranging systems, where two or more entities can obtain thier correct distance measurement in presence of an adversory."
       - project:
-        title: SenseX Wellness as a service
+        title: "SenseX: Wellness as a service"
         time: 2014 - 2016
         tagline: "With the increasing number of desk jobs, workplaces have become the epicentre of several health risks. SenseX uses a variety of devices and sensors to track physical activity level of employees in an organization. SenseX platform of- fers APIs which can be used by 3rd party applications to create services and applications, which can focus on specific interventions."
       - project:
@@ -113,26 +113,26 @@ projects:
       - project:
         title: High density enterprise wireless LANs
         time: 2013 - 2014
-        advisor: Advisor Prof. Sanjit Krishnan Kaul, IIIT Delhi
+        advisor: "Advisor: Prof. Sanjit Krishnan Kaul, IIIT Delhi"
         tagline: "Designing a poisson distributed linear topology, for a network with small access points or cells dis- tributed among users. It involves comparing the results of channel sharing, due to CSMA backoff, with capture effect in terms of network capacity. Results of comparison decide best possible sets of operational links in network."
       - project:
         title: Trishulam
-        advisor: Advisor Prof. Pushpendra Singh, IIIT Delhi 
+        advisor: "Advisor: Prof. Pushpendra Singh, IIIT Delhi" 
         time: 2012
         tagline: "An innitiative for women safety, application on android platform ,preselection of safety modes, notify contacts of primary user about panic condition. Deliver feature rich data of primary user’s smartphone to Emergency contact. Various sensors such as GPS, microphone and camera run by services on primary user smartphone and emergency contacts can access this information in real time"
       - project:
         title: Code Runner
-        advisor: Advisor Prof. Vinayak Naik, IIIT Delhi 
+        advisor: "Advisor: Prof. Vinayak Naik, IIIT Delhi"
         time: 2012
         tagline: "Facilitating C code program- ming in Smartphone. Code is sent to server for compilation and execution. Interactive programming is enabled using mini server architecture."      
       - project:
         title: Characterizing Polluted User in Twitter Sphere
-        advisor: Advisor Prof. Ponnurangam Kumaraguru, IIIT Delhi
+        advisor: "Advisor: Prof. Ponnurangam Kumaraguru, IIIT Delhi"
         time: 2012
         tagline: "An automated mechanism to detect pornographic user in twitter. Characterization employ bag of word model, information in long URLs , websites linked back, follower- following ratio and posting activities."
       - project:
         title: Design and Development of a Rapidly Deployable WiMAX Mesh Network (RODEO)
-        advisor: Advisor Prof. Huzur Saran and Prof. Vinay Joseph Ribeiro, IIT Delhi
+        advisor: "Advisor: Prof. Huzur Saran and Prof. Vinay Joseph Ribeiro, IIT Delhi"
         time: 2011 - 2012
         tagline: "Study of TCP stack for better performance in terms of delay, throughput and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture effect of mobility and differentiate it from congestion."
 
@@ -152,10 +152,29 @@ publications:
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: "3rd IKDD Conference on Data Science (2016)"
       - paper:
-        title: "anayuja: a people-centric platform to generate reliable and actionable insights for civic agencies”
+        title: "Janayuja: a people-centric platform to generate reliable and actionable insights for civic agencies”
         authors: T Mukherjee, D Chander, S Eswaran, M Singh , P Varma, A Chugh
         conference: "Annual Symposium on Computing for Development, 137-145 5 2015"
-
+      - paper:
+        title: "Mauka-mauka: mea- suring and predicting opportunities for webcam-based heart rate sensing in workplace environment"
+        authors: M Singh, A Kumar, K Yadav, H Madhu, T Mukherjee 
+        conference: "10th EAI International Confer- ence on Body Area Networks, 2015"
+      - paper:
+        title: "PISCES: participatory incentive strategies for effective community engage- ment in smart cities”
+        authors: A Biswas, D Chander, K Dasgupta, K Mukherjee, M Singh, T Mukherjee
+        conference: "Third AAAI Conference on Human Computation and Crowdsourcing, 2015"
+      - paper:
+        title: "SenseX: Design and Deployment of a Pervasive Wellness Monitoring Platform for Work- places”
+        authors: R Wadhwa, A Chugh, A Kumar, M Singh, K Yadav, S Eswaran
+        conference: "International Conference on Service-Oriented Computing, 427-443 2 2015"
+      - paper:
+        title: "On large throughputs in high density wireless local area networks”
+        authors: M Singh, S Kaul, P Biyani
+        conference: "GLOBECOM 2014"
+      - paper:
+        title: "RadioMap: fine-grained cellular coverage mapping in indoor environments”
+        authors: A Kumar, M Singh, K Yadav, N Piratla
+        conference: "Posters and Demos Session, 39-40 2014"
 
 skills:
     title: Skills &amp; Proficiency
