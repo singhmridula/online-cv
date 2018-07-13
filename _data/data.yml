@@ -47,8 +47,10 @@ sidebar:
     teaching:
         - teaching:
           course: Digital Circuits
-          year: FS16 
-
+          year: FS17,FS18
+        - teaching:
+          course: Security of Wireless Networks
+          year: SS16,SS16
 
 career-profile: 
     title: Bio
