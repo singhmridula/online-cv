@@ -118,7 +118,7 @@ projects:
       - project:
         title: Trishulam
         advisor: "Advisor: Prof. Pushpendra Singh, IIIT Delhi" 
-        time: 2012
+        time: 2012 - 2013
         tagline: "An innitiative for women safety, application on android platform ,preselection of safety modes, notify contacts of primary user about panic condition. Deliver feature rich data of primary user’s smartphone to Emergency contact. Various sensors such as GPS, microphone and camera run by services on primary user smartphone and emergency contacts can access this information in real time"
       - project:
         title: Code Runner
@@ -143,7 +143,7 @@ publications:
         
     publications:
       - paper:
-        title: UWB with Pulse Reordering Securing Ranging against Relay and Physical Layer Attacks
+        title: "UWB with Pulse Reordering: Securing Ranging against Relay and Physical Layer Attacks"
         authors: M Singh, P Leu, S Capkun
         conference: IACR Cryptology ePrint Archive 1240 (2017)
       - paper:
@@ -151,7 +151,7 @@ publications:
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: 3rd IKDD Conference on Data Science, (2016)
       - paper:
-        title: Janayuja a people centric platform to generate reliable and actionable insights for civic agencies
+        title: "Janayuja: a people centric platform to generate reliable and actionable insights for civic agencies"
         authors: T Mukherjee, D Chander, S Eswaran, M Singh , P Varma, A Chugh
         conference: Annual Symposium on Computing for Development, (2015)
       - paper:
