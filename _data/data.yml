@@ -122,7 +122,7 @@ projects:
         tagline: "An innitiative for women safety, application on android platform ,preselection of safety modes, notify contacts of primary user about panic condition. Deliver feature rich data of primary user’s smartphone to Emergency contact. Various sensors such as GPS, microphone and camera run by services on primary user smartphone and emergency contacts can access this information in real time"
       - project:
         title: Code Runner
-        advisor: Advisor: Prof. Vinayak Naik, IIIT Delhi 
+        advisor: Advisor Prof. Vinayak Naik, IIIT Delhi 
         time: 2012
         tagline: "Facilitating C code program- ming in Smartphone. Code is sent to server for compilation and execution. Interactive programming is enabled using mini server architecture."      
       - project:
@@ -140,21 +140,21 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+    intro: ""
+
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: "UWB with Pulse Reordering: Securing Ranging against Relay and Physical Layer Attacks"
+        authors: M Singh, P Leu, S Capkun
+        conference: IACR Cryptology ePrint Archive 2017: 1240 (2017)
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: "Improving Urban Transportation through Social Media Analytics"
+        authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
+        conference: "3rd IKDD Conference on Data Science (2016)"
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: "anayuja: a people-centric platform to generate reliable and actionable insights for civic agencies”
+        authors: T Mukherjee, D Chander, S Eswaran, M Singh , P Varma, A Chugh
+        conference: "Annual Symposium on Computing for Development, 137-145 5 2015"
 
 
 skills:
