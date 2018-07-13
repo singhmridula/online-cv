@@ -18,12 +18,12 @@
       </div><!--//upper-row-->
 
       {% if project.advisor %}
-      - <span class="project-tagline">{{ project.advisor }}</span>
+        <span class="project-tagline">{{ project.advisor }}</span>
       {% endif %}
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+      <div class="details">
+      <p>{{ project.tagline }}</p>
+     </div><!--//details-->
 
     </div><!--//item-->
   {% endfor %}
