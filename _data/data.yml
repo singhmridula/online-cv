@@ -62,7 +62,7 @@ sidebar:
           year: SS12
           type2: IIITD
         - teaching:
-          course: Computer Orgnization
+          course: Computer Organization
           year: WS13
           type2: IIITD
         - teaching:
@@ -70,47 +70,44 @@ sidebar:
           year: SS13
           type2: IIITD
         - teaching:
-          course: Wireless Networksssss
+          course: Wireless Networks
           year: WS14
           type2: IIITD
 
 career-profile: 
     title: Bio
-    text: 'Mridula is a PhD candidate in the System Security Group at ETH Zurich, advised by Prof. Srdjan Capkun. In PhD, 
-her focus is in designing secure and scalable localization systems capable of providing position and 
-proximity verification in presence of an adversory. She is also interested in Security of Wireless networks, 
-Network Modelling, Mobile Computing and Imapct of Social Media.'
+    text: 'Mridula is a Ph.D. candidate in the System Security Group at ETH Zurich, advised by Prof. Srdjan Capkun. In Ph.D., her focus is in designing secure and scalable localization systems capable of providing position and proximity verification in the presence of an adversary. She is also interested in courses such as Security of Wireless Networks, Network Modelling, Mobile Computing, and Impact of Social Media.'
 
 
 studies: 
     - education:
-      degree: PhD in Dept. of Information Security
-      university: ETH Zurich
+      degree: Ph.D. in Dept. of Information Security
+      university: ETH Zurich, Switzerland
       time: 2016 - Present
       details: "Da"
 
     - education:
-      degree: MTec. in Computer Science - Mobile and Ubiquitous Computing
-      university: IIIT Delhi 
+      degree: M.Tech. in Computer Science - Mobile and Ubiquitous Computing
+      university: IIIT-Delhi, India 
       time: 2012 - 2014
       details: "Da."
 
     - education:
-      degree: BTec. in Computer Science 
-      university: UPTU
+      degree: B.Tech. in Computer Science 
+      university: UPTU, India
       time: 2007 - 2011
       details: "Da."
 
 exp: 
     - education:
       degree: Research Engineer
-      university: Xerox Research Centre, India
+      university: Xerox Research Centre India
       time: 2014 - 2016
       details: "Da"
 
     - education:
-      degree: Research Associate 
-      university: IIT Delhi 
+      degree: Research Assitant 
+      university: IIT Delhi, India 
       time: 2011 - 2012
       details: "Da."
 
@@ -128,40 +125,40 @@ projects:
         title: Scalablity and Security of RF Ranging Systems
         time: 2016 - Present
         advisor: "Advisor: Prof. Srdjan Capkun, ETH Zurich"
-        tagline: "The attacks on the ranging and positioning systems have real world impact. The existing ranging systems are shown vulnerabile to physical and link layer attacks. This project is a step toward designing the secure ranging systems, where two or more entities can obtain thier correct distance measurement in presence of an adversory."
+        tagline: "The attacks on the ranging and positioning systems have real-world impact. The existing ranging systems are shown vulnerable to physical and link layer attacks. This project is a step toward designing the secure ranging systems, where two or more entities can obtain their correct distance measurement in the presence of an adversary."
       - project:
         title: "SenseX: Wellness as a service"
         time: 2014 - 2016
-        tagline: "With the increasing number of desk jobs, workplaces have become the epicentre of several health risks. SenseX uses a variety of devices and sensors to track physical activity level of employees in an organization. SenseX platform of- fers APIs which can be used by 3rd party applications to create services and applications, which can focus on specific interventions."
+        tagline: "With the increasing number of desk jobs, workplaces have become the epicenter of several health risks. SenseX uses a variety of devices and sensors to track the physical activity level of employees in an organization. SenseX platform offers APIs which can be used by 3rd party applications to create services and applications, which can focus on specific interventions."
       - project:
         title: CityZen
         time: 2014 - 2016
-        tagline: " Modern citizens are actively discussing and expressing opinions about city re- lated issues in open public forums on the web. This project act as an effective conduit between residents and civic agencies, by collecting timely information from different online sources and providing actionable insights to the agencies on pressing city issues."
+        tagline: "Modern citizens are actively discussing and expressing opinions about city-related issues in open public forums on the web. This project acts as an effective conduit between the residents and the civic agencies, by collecting timely information from different online sources and providing actionable insights to the agencies on pressing city issues."
       - project:
         title: High density enterprise wireless LANs
         time: 2013 - 2014
         advisor: "Advisor: Prof. Sanjit Krishnan Kaul, IIIT Delhi"
-        tagline: "While the density of access points in enterprise settings has increased, the sharing of the spatial resource amongst links in 802.11 wireless local area networks remains inefficient. We formulate the network throughput optimization problem, which is to decide which links in a network must share in space (transmit data simultaneously) such that the network throughput is maximized. Links share in space by piggybacking on data transmission opportunities seized by another link using RTS/CTS as specified in the distributed coordination function (DCF) of 802.11."
+        tagline: "While the density of access points in enterprise settings has increased, the sharing of the spatial resource amongst links in 802.11 wireless local area networks remains inefficient. We formulate an optimization problem to maximize network throughput by careful sharing of space (transmit data simultaneously). The throughput is maximized by piggybacking data on the transmission opportunities seized by another link."
       - project:
         title: Trishulam
         advisor: "Advisor: Prof. Pushpendra Singh, IIIT Delhi" 
         time: 2012 - 2013
-        tagline: "An innitiative for women safety, application on android platform ,preselection of safety modes, notify contacts of primary user about panic condition. Deliver feature rich data of primary user’s smartphone to Emergency contact. Various sensors such as GPS, microphone and camera run by services on primary user smartphone and emergency contacts can access this information in real time"
+        tagline: "An initiative for women safety - an application on the Android platform allowing preselection of safety modes and notifying the contacts of the primary user about a panic condition. It delivered feature-rich data about primary user’s smartphone to emergency contacts. Various sensors such as GPS, microphone, and camera run by services on primary user smartphone and emergency contacts, can access this information in real time."
       - project:
         title: Code Runner
         advisor: "Advisor: Prof. Vinayak Naik, IIIT Delhi"
         time: 2012
-        tagline: "Facilitating C code programming in Smartphone. Code is sent to server for compilation and execution. Interactive programming is enabled using mini server architecture."      
+        tagline: "Facilitated C code programming in smartphones. The code is sent to the server for compilation and execution. Interactive programming is enabled using mini server architecture."      
       - project:
         title: Characterizing Polluted User in Twitter Sphere
         advisor: "Advisor: Prof. Ponnurangam Kumaraguru, IIIT Delhi"
         time: 2012
-        tagline: "An automated mechanism to detect pornographic user in twitter. Characterization employ bag of word model, information in long URLs , websites linked back, follower- following ratio and posting activities."
+        tagline: "An automated mechanism to detect a pornographic user in Twitter. Characterization employs a bag of word model, information in lengthy URLs, websites linked back, follower-following ratio and posting activities."
       - project:
         title: Design and Development of a Rapidly Deployable WiMAX Mesh Network
         advisor: "Advisor: Prof. Huzur Saran and Prof. Vinay Joseph Ribeiro, IIT Delhi"
         time: 2011 - 2012
-        tagline: "Study of TCP stack for better performance in terms of delay, throughput and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture effect of mobility and differentiate it from congestion."
+        tagline: "Study of TCP stack for better performance in terms of delay, throughput, and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture the effect of mobility and differentiate it from congestion."
 
 
 
@@ -221,7 +218,7 @@ skills:
           name: Ruby on Rails
           level: 85%
         - skill:
-          name: Sketch & Photoshop
+          name: Sketch and Photoshop
           level: 60%
 
 
