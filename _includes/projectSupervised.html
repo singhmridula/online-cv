@@ -1,18 +1,22 @@
-{% if site.data.data.publications %}
-<section class="section publications-section">
+{% if site.data.data.projects %}
+<section class="section projects-section">
 
-  <h2 class="section-title"><i class="fa fa-archive"></i>Patents</h2>
+  <h2 class="section-title"><i class="fa fa-archive"></i>{{ site.data.data.projects.title }}</h2>
 
-  {% if site.data.data.publications.intro %}
+  {% if site.data.data.projects.intro %}
   <div class="intro">
-      <p>{{ site.data.data.publications.intro }}</p>
+      <p>{{ site.data.data.projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in site.data.data.publications.publications %}
-    <div class="item">
-      <div class="publication-title">{{ publication.title }}</div>
-    </div><!--//item-->
+  {% for project in site.data.data.projects.projects %}
+    {% if projects.titlesp %}
+      <div class="item">
+        <h4 class="project-title">{{ project.title }}</h4>
+      </div><!--//details-->
+
+      </div><!--//item-->
+    {% endif %}
   {% endfor %}
 
 </section><!--//section-->

@@ -10,22 +10,24 @@
   {% endif %}
 
   {% for project in site.data.data.projects.projects %}
-    <div class="item">
+    {% if projects.title %}
+      <div class="item">
 
-      <div class="upper-row">
-        <h3 class="project-title">{{ project.title }}</h3>
-        <div class="time">{{ project.time }}</div>
-      </div><!--//upper-row-->
+        <div class="upper-row">
+          <h3 class="project-title">{{ project.title }}</h3>
+          <div class="time">{{ project.time }}</div>
+        </div><!--//upper-row-->
 
-      {% if project.advisor %}
-        <span class="project-tagline">{{ project.advisor }}</span>
-      {% endif %}
+        {% if project.advisor %}
+          <span class="project-tagline">{{ project.advisor }}</span>
+        {% endif %}
 
-      <div class="details">
-      <p>{{ project.tagline }}</p>
-     </div><!--//details-->
+        <div class="details">
+        <p>{{ project.tagline }}</p>
+      </div><!--//details-->
 
-    </div><!--//item-->
+      </div><!--//item-->
+    {% endif %}
   {% endfor %}
 
 </section><!--//section-->
