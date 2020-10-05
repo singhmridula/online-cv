@@ -18,25 +18,6 @@
       </div><!--//item-->
     {% endif %}
   {% endfor %}
-
-
-  <h2 class="section-title"><i class="fa fa-file-text"></i>Patents</h2>
-hi
-  {% if site.data.data.publications.intro %}
-  <div class="intro">
-      <p>{{ site.data.data.publications.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for publication in site.data.data.publications.publications %}
-    {% if publication.conference %}
-      <div class="item">
-        <div class="publication-title">{{ publication.title }}</div>
-        <div class="publication-authors">{{ publication.authors }}</div>
-        <div class="publication-conference">{{ publication.conference   }}</div>
-      </div><!--//item-->
-    {% endif %}
-  {% endfor %}
-
+  
 </section><!--//section-->
 {% endif %}
