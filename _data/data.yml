@@ -174,11 +174,11 @@ publications:
     title: Publications
         
     publications:
-    - paper:
-    title: "Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement"
-    authors: P Leu, M Singh, M Roeschlin, K Paterson, S Capkun
-    conference: IEEE Symposium on Security and Privacy (S&P), (2020)
-        - paper:
+      - paper:
+        title: "Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement"
+        authors: P Leu, M Singh, M Roeschlin, K Paterson, S Capkun
+        conference: IEEE Symposium on Security and Privacy (S&P), (2020)
+      - paper:
         title: "UWB-​ED: Distance Enlargement Attack Detection in Ultra-​Wideband"
         authors: M Singh, P Leu,A Abdou, S Capkun
         conference: USENIX Security Symposium, (2019)
