@@ -205,33 +205,27 @@ publications:
       - paper:
         title: "SenseX: Design and Deployment of a Pervasive Wellness Monitoring Platform for Work places"
         authors: R Wadhwa, A Chugh, A Kumar, M Singh, K Yadav, S Eswaran
-        conference: International Conference on Service-Oriented Computing, (2015)     
+        conference: International Conference on Service-Oriented Computing, (2015)
       - paper:
         title: On large throughputs in high density wireless local area networks
         authors: M Singh, S Kaul, P Biyani
         conference: GLOBECOM (2014)
-     
-
-publications:
-  title: Patents
-      
-  publications:
-    - paper:
-      title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
-      authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
-      conference: ""
-    - paper:
-      title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
-      authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
-      conference: ""
-    - paper:
-      title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
-      authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
-      conference: ""
-    - paper:
-      title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
-      authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
-      conference: ""
+      - paper:
+        title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
+        authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
+        conference2: ""
+      - paper:
+        title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
+        authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
+        conference2: ""
+      - paper:
+        title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
+        authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
+        conference2: ""
+      - paper:
+        title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
+        authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
+        conference2: ""
 
 
 skills:
