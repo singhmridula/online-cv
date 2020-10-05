@@ -64,7 +64,7 @@ sidebar:
         - teaching:
           course:  Computer Networks
           year: SS12
-          type2: IIITD
+          : IIITD
         - teaching:
           course: Computer Organization
           year: WS13
@@ -213,19 +213,19 @@ publications:
       - paper:
         title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
         authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
-        conference: ""
+        conference: "dd"
       - paper:
         title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
-        authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
-        conference2: ""
+        authors2: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
+        conference2: "dd"
       - paper:
         title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
-        authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
-        conference2: ""
+        authors2: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
+        conference2: "dd"
       - paper:
         title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
-        authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
-        conference2: ""
+        authors2: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
+        conference2: "dd"
 
 
 skills:
