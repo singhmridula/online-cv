@@ -212,7 +212,26 @@ publications:
         conference: GLOBECOM (2014)
      
 
-
+publications:
+    title: Patents
+    
+    publications:
+        - paper:
+        title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
+        authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
+        conference: ""
+        - paper:
+        title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
+        authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
+        conference: ""
+        - paper:
+        title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
+        authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
+        conference: ""
+        - paper:
+        title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
+        authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
+        conference: ""
 
 
 skills:
