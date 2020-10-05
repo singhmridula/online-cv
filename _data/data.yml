@@ -213,7 +213,7 @@ publications:
       - paper:
         title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
         authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
-        conference2: ""
+        conference: ""
       - paper:
         title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
         authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
