@@ -11,11 +11,11 @@ sidebar:
     # Profile information
     name: Mridula Singh
     tagline: PhD Student, ETH Zurich
-    pic: avatar.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: mrsingh@inf.ethz.ch
-    phone:  +41 44 632 51 75
+    email: mridula.singh@inf.ethz.ch
+   # phone:  +41 44 632 51 75
    # website: http://www.syssec.ethz.ch/people/singh.html #do not add http://
     linkedin: mridula-singh-9a480925
     #github: sharu725
@@ -46,12 +46,16 @@ sidebar:
 
     teaching:
         - teaching:
-          course: Digital Circuits
-          year: FS17, FS18
+          course: Current Topics in Information Security
+          year: SS18, SS19, SS20
           type: ETH
         - teaching:
           course: Security of Wireless Networks
-          year: SS16, SS17
+          year: SS16, SS17,SS18, SS19, SS20
+          type: ETH
+        - teaching:
+          course: Digital Circuits
+          year: FS17, FS18
           type: ETH
         - teaching:
           course: Introduction to Programming 
@@ -76,12 +80,12 @@ sidebar:
 
 career-profile: 
     title: Bio
-    text: 'Mridula is a Ph.D. candidate in the System Security Group at ETH Zurich, advised by Prof. Srdjan Capkun. In Ph.D., her focus is in designing secure and scalable localization systems capable of providing position and proximity verification in the presence of an adversary. She is also interested in courses such as Security of Wireless Networks, Network Modelling, Mobile Computing, and Impact of Social Media.'
+    text: 'Mridula is a PhD candidate in the System Security Group at ETH Zurich, advised by Prof. Srdjan Capkun. In PhD, her focus is in designing secure and scalable localization systems capable of providing position and proximity verification in the presence of an adversary. She is also interested in areas such as Security of Wireless Networks, Network Modelling, Mobile Computing, and Impact of Social Media.'
 
 
 studies: 
     - education:
-      degree: Ph.D. in Dept. of Information Security
+      degree: PhD student at the Institute of Information Security
       university: ETH Zurich, Switzerland
       time: 2016 - Present
       details: "Da"
@@ -98,7 +102,14 @@ studies:
       time: 2007 - 2011
       details: "Da."
 
-exp: 
+exp:
+
+    - education:
+      degree: Co-lead at Network of Women in Computer Science
+      university:ETH Zurich, Switzerland
+      time: 2018 - Present
+      details: "Da"
+      
     - education:
       degree: Research Engineer
       university: Xerox Research Centre India
@@ -112,20 +123,16 @@ exp:
       details: "Da."
 
 
-
-
-
-
 projects:
     title: Projects
     intro: ""
     
     projects:
       - project:
-        title: Scalablity and Security of RF Ranging Systems
+        title: "Secure and Scalable RF Ranging Systems"
         time: 2016 - Present
         advisor: "Advisor: Prof. Srdjan Capkun, ETH Zurich"
-        tagline: "The attacks on the ranging and positioning systems have real-world impact. The existing ranging systems are shown vulnerable to physical and link layer attacks. This project is a step toward designing the secure ranging systems, where two or more entities can obtain their correct distance measurement in the presence of an adversary."
+        tagline: "The attacks on the ranging and positioning systems have real-world impact. The existing ranging systems are shown vulnerable to physical and link layer attacks. This project is a step toward designing the secure ranging systems, where two or more entities can obtain their correct distance measurement in the presence of an adversary. "
       - project:
         title: "SenseX: Wellness as a service"
         time: 2014 - 2016
@@ -160,18 +167,64 @@ projects:
         time: 2011 - 2012
         tagline: "Study of TCP stack for better performance in terms of delay, throughput, and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture the effect of mobility and differentiate it from congestion."
 
+projects:
+title: Projects Supervised
+intro: ""
+projects:
+  - project:
+    title: "Localizing mobile nodes in a relative coordinate system"
+    authors: Andreas Biri, (2017)
+    time: ""
+    tagline: ""
+- project:
+    title: "Distance Enlargement Attack Detection and Prevention in Impulse Radio Ultra Wideband Communications"
+    authors: Simon Miescher, (2018)
+    time: ""
+    tagline: ""
+projects:
+- project:
+  title: "Secure Time of Arrival estimation in 5G"
+  authors:  Andreas Enz, (2019)
+  time: ""
+  tagline: ""
+projects:
+- project:
+  title: "Early Detection & Late Commit on OFDM Based Time of Arrival Measurements"
+  authors: Martin Kotuliak, (2019)
+  time: ""
+  tagline: ""
+projects:
+- project:
+  title: "Distance Modification Attacks against Wireless Multi-carrier Systems"
+  authors: Julia Badertscher, (2020)
+  time: ""
+  tagline: ""
+projects:
+- project:
+  title: "Secure Two-Way Ranging in 5G-enabled VANETs"
+  authors: Manisha De, (2020)
+  time: ""
+  tagline: ""
 
 
 publications:
     title: Publications
         
     publications:
+    - paper:
+    title: "Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement"
+    authors: P Leu, M Singh, M Roeschlin, K Paterson, S Capkun
+    conference: IEEE Symposium on Security and Privacy (S&P), (2020)
+        - paper:
+        title: "UWB-​ED: Distance Enlargement Attack Detection in Ultra-​Wideband"
+        authors: M Singh, P Leu,A Abdou, S Capkun
+        conference: USENIX Security Symposium, (2019)
       - paper:
         title: "UWB with Pulse Reordering: Securing Ranging against Relay and Physical Layer Attacks"
         authors: M Singh, P Leu, S Capkun
-        conference: IACR Cryptology ePrint Archive 1240 (2017)
+        conference: Proceedings of the Network and Distributed System Security Symposium (NDSS), (2019)
       - paper:
-        title: Improving Urban Transportation through Social Media Analytics
+        title: "Improving Urban Transportation through Social Media Analytics"
         authors: M Sinha, P Varma, G Sivakumar, M Singh, T Mukherjee, D Chander
         conference: 3rd IKDD Conference on Data Science, (2016)
       - paper:
@@ -195,6 +248,30 @@ publications:
         authors: M Singh, S Kaul, P Biyani
         conference: GLOBECOM (2014)
      
+
+publications:
+title: Patents
+    
+publications:
+- paper:
+title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
+authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
+conference: ""
+- paper:
+title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
+authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
+conference: ""
+- paper:
+title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
+authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
+conference: ""
+- paper:
+title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
+authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
+conference: ""
+
+
+
 
 
 
@@ -222,5 +299,5 @@ skills:
           level: 60%
 
 
-footer: 
+footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
