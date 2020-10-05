@@ -167,7 +167,22 @@ projects:
         time: 2011 - 2012
         tagline: "Study of TCP stack for better performance in terms of delay, throughput, and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture the effect of mobility and differentiate it from congestion."
 
-
+publications:
+    title: Publications
+        
+    publications:
+      - paper:
+        title: "Localizing mobile nodes in a relative coordinate system, Andreas Biri, (2017)"
+      - paper:
+        title: "Distance Enlargement Attack Detection and Prevention in Impulse Radio Ultra Wideband Communications, Simon Miescher, (2018)"
+      - paper:
+        title: "Secure Time of Arrival estimation in 5G, Andreas Enz, (2019)"
+      - paper:
+        title: "Early Detection & Late Commit on OFDM Based Time of Arrival Measurements, Martin Kotuliak, (2019)"
+      - paper:
+        title: "Distance Modification Attacks against Wireless Multi-carrier Systems, Julia Badertscher, (2020)"
+      - paper:
+        title: "Secure Two-Way Ranging in 5G-enabled VANETs, Manisha De, (2020)"
 
 
 publications:
@@ -216,15 +231,15 @@ publications:
         conference2: "dd"
       - paper:
         title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
-        authors2: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
+        authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
         conference2: "dd"
       - paper:
         title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
-        authors2: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
+        authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
         conference2: "dd"
       - paper:
         title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
-        authors2: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
+        authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
         conference2: "dd"
 
 
