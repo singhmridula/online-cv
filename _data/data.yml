@@ -64,7 +64,7 @@ sidebar:
         - teaching:
           course:  Computer Networks
           year: SS12
-          : IIITD
+          type2: IIITD
         - teaching:
           course: Computer Organization
           year: WS13
