@@ -167,44 +167,7 @@ projects:
         time: 2011 - 2012
         tagline: "Study of TCP stack for better performance in terms of delay, throughput, and packet delivery fraction. Modification in AODV and New-Reno algorithm to capture the effect of mobility and differentiate it from congestion."
 
-projects:
-title: Projects Supervised
-intro: ""
-projects:
-  - project:
-    title: "Localizing mobile nodes in a relative coordinate system"
-    authors: Andreas Biri, (2017)
-    time: ""
-    tagline: ""
-- project:
-    title: "Distance Enlargement Attack Detection and Prevention in Impulse Radio Ultra Wideband Communications"
-    authors: Simon Miescher, (2018)
-    time: ""
-    tagline: ""
-projects:
-- project:
-  title: "Secure Time of Arrival estimation in 5G"
-  authors:  Andreas Enz, (2019)
-  time: ""
-  tagline: ""
-projects:
-- project:
-  title: "Early Detection & Late Commit on OFDM Based Time of Arrival Measurements"
-  authors: Martin Kotuliak, (2019)
-  time: ""
-  tagline: ""
-projects:
-- project:
-  title: "Distance Modification Attacks against Wireless Multi-carrier Systems"
-  authors: Julia Badertscher, (2020)
-  time: ""
-  tagline: ""
-projects:
-- project:
-  title: "Secure Two-Way Ranging in 5G-enabled VANETs"
-  authors: Manisha De, (2020)
-  time: ""
-  tagline: ""
+
 
 
 publications:
@@ -248,30 +211,6 @@ publications:
         authors: M Singh, S Kaul, P Biyani
         conference: GLOBECOM (2014)
      
-
-publications:
-title: Patents
-    
-publications:
-- paper:
-title: "Method and system for managing crowd-sensed data (US Patent App. 15/335,498)"
-authors: S Eswaran, D Chander, M Singh, T Mukherjee, K Dasgupta
-conference: ""
-- paper:
-title: "Method and system for processing crowd-sensed data to generate actionable insights of geographical areas (US Patent App. 15/268,698)"
-authors: A Chugh, M Singh, T Mukherjee, P Varma, D Chander, G Sivkumar, C Senthamilselvan
-conference: ""
-- paper:
-title: "Heart rate sensing using camera-based handheld device (US Patent App. 14/921,032)"
-authors: A Kumar, K Yadav, M Singh, HJ Madhu, A Nanda
-conference: ""
-- paper:
-title: "Method and device for non-invasive monitoring of physiological parameters (US Patent App. 14/886,165)"
-authors: M Singh, K Yadav, A Kumar, HJ Madhu, T Mukherjee
-conference: ""
-
-
-
 
 
 
